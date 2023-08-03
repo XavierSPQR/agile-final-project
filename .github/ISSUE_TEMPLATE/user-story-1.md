@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **As a** User
- **I need**to crate a product
+ **I need**to create a product
  **So that**it will be displayed in catalogue
    
  ### Details and Assumptions
