@@ -1,5 +1,5 @@
 ---
-name: Issue Template
+name: User Story
 about: Add issues with agile-project-final
 title: ''
 labels: ''
